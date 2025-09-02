@@ -51,5 +51,4 @@
 </div>
 
 ###
-![Snake animation](https://raw.githubusercontent.com/isakin14/isakin14/output/dist/github-contribution-grid-snake-dark.svg)
-###
+<img src="https://raw.githubusercontent.com/isakin14/isakin14/output/snake.svg" alt="Snake animation" />
