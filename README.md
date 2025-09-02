@@ -51,9 +51,5 @@
 </div>
 
 ###
-
-<img src="https://raw.githubusercontent.com/isakin14/isakin14/output/snake.svg" alt="Snake animation" />
-
-![github-contribution-grid-snake](https://github.com/isakin14/isakin14/blob/output/dist/github-contribution-grid-snake-dark.svg?sanitize=true)
-
+![Snake animation](https://raw.githubusercontent.com/isakin14/isakin14/output/dist/github-contribution-grid-snake-dark.svg)
 ###
